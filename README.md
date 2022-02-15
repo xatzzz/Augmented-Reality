@@ -33,13 +33,15 @@
 
 ## Απορίες
 
-Για τυχόν απορίες όσον αφορά τα παραδοτέα υπάρχουν τα ανοιχτά [issues](https://github.com/merkourisa/Space-Shooter/issues) όπου μπορείτε όχι μόνο να ρωτάτε αλλά και να απαντάτε σε  απορίες συμφοιτητών σας. 
+Για τυχόν απορίες όσον αφορά τα παραδοτέα υπάρχουν τα ανοιχτά [issues](https://github.com/merkourisa/Augmented-Reality/issues), όπου μπορείτε όχι μόνο να ρωτάτε αλλά και να απαντάτε σε απορίες συμφοιτητών σας. 
 
 ## Resources
 
-Τον κώδικα του παιχνιδιού μπορείτε να τον κατεβάσετε από [εδώ](https://drive.google.com/file/d/1ce_eq5lP-lW65SJ3bIBJ3OBeRX5AGatH/view?usp=sharing).
+[html Tutorial](https://www.w3schools.com/html/default.asp)
+[Javascript Tutorial](https://www.w3schools.com/js/)
+[A-Frame Library](https://github.com/aframevr/aframe)
+[Α-Frame School](https://aframe.io/aframe-school/#/)
+[AR.js](https://github.com/AR-js-org/AR.js)
 
-Επειδή το παιχνίδι έχει αναπτυχθεί σε μια παλιά έκδοση του Unity κάποια στοιχεία μπορεί να μην τρέχουν σωστά στην έκδοση (2019.4.31f1) που θα αναπτύξετε το παιχνίδι. Ωστόσο υπάρχουν [αναλυτικές οδηγίες](https://github.com/merkourisa/Space-Shooter/blob/main/Space%20Shooter%20Upgrade%20Guide%20for%20Unity%205-5.pdf) οι οποίες θα σας βοηθήσουν να ξεπεράσετε τα συγκεκριμένα προβλήματα. 
 
-[Tutorial](https://learn.unity.com/tutorial/introduction-to-space-shooter?uv=5.x&projectId=5c5148e1edbc2a001fd5bdfe)
 
