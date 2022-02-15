@@ -21,16 +21,19 @@
 
 ## Βαθμολόγηση
 Λαμβάνοντας υπόψη το ποσοστό της εργασίας στον τελικό βαθμό, με άριστα το 6 τα παραδοτέα βαθμολογούνται ως εξής:
-- Αλλαγές στο παιχνίδι όπως περιγράφονται στο [παραδοτέο 1](https://github.com/merkourisa/Space-Shooter/issues/1): μέχρι +2 μονάδες. 
-- Αλλαγές στο παιχνίδι όπως περιγράφονται στο [παραδοτέο 2](https://github.com/merkourisa/Space-Shooter/issues/2): μέχρι +2 μονάδες.
-- Αλλαγές στο παιχνίδι όπως περιγράφονται στο [παραδοτέο 3](https://github.com/merkourisa/Space-Shooter/issues/3): μέχρι +2 μονάδες.
+- Προσθήκες όπως περιγράφονται στο [παραδοτέο 1](https://github.com/merkourisa/Augmented-Reality/issues/1): μέχρι +1.5 μονάδες. 
+- Προσθήκες όπως περιγράφονται στο [παραδοτέο 2](https://github.com/merkourisa/Augmented-Reality/issues/2): μέχρι +2 μονάδες.
+- Προσθήκες όπως περιγράφονται στο [παραδοτέο 3](https://github.com/merkourisa/Augmented-Realityr/issues/3): μέχρι +1.5 μονάδες.
 
 
 ## Προθεσμίες
-- [παραδοτέο 1](https://github.com/merkourisa/Space-Shooter/issues/1): μέχρι 28/11/2021 
-- [παραδοτέο 2](https://github.com/merkourisa/Space-Shooter/issues/2): μέχρι 23/12/2021
-- [παραδοτέο 3](https://github.com/merkourisa/Space-Shooter/issues/3): μέχρι 21/1/2022
-- [Bonus](https://github.com/merkourisa/Space-Shooter/issues/4): μέχρι 24/1/2022
+- [παραδοτέο 1](https://github.com/merkourisa/Augmented-Reality/issues/1): μέχρι 25/03/2022 
+- [παραδοτέο 2](https://github.com/merkourisa/Augmented-Reality/issues/2): μέχρι 29/04/2022
+- [παραδοτέο 3](https://github.com/merkourisa/Augmented-Reality/issues/3): μέχρι 03/06/2022
+
+## Απορίες
+
+Για τυχόν απορίες όσον αφορά τα παραδοτέα υπάρχουν τα ανοιχτά [issues](https://github.com/merkourisa/Space-Shooter/issues) όπου μπορείτε όχι μόνο να ρωτάτε αλλά και να απαντάτε σε  απορίες συμφοιτητών σας. 
 
 ## Resources
 
@@ -40,6 +43,3 @@
 
 [Tutorial](https://learn.unity.com/tutorial/introduction-to-space-shooter?uv=5.x&projectId=5c5148e1edbc2a001fd5bdfe)
 
-## Απορίες
-
-Για τυχόν απορίες όσον αφορά τα παραδοτέα υπάρχουν τα ανοιχτά [issues](https://github.com/merkourisa/Space-Shooter/issues) όπου μπορείτε όχι μόνο να ρωτάτε αλλά και να απαντάτε σε  απορίες συμφοιτητών σας. 
