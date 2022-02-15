@@ -10,7 +10,7 @@
 ![ScreenShot](2.png)
 
 
-## Ρύθμιση του Περιβάλλοντος Ανάπτυξης των Εφαρμογών
+## Ρύθμιση του Περιβάλλοντος Ανάπτυξης των Web Εφαρμογών
 - Χρησιμοποιώντας το [Github Desktop](https://desktop.github.com/) μπορείς να κατεβάσεις τα αρχεία του προσωπικού σου repository τοπικά στον υπολογιστή σου. 
 - Θα πρέπει να χρησιμοποιήσεις ένα περιβάλλον ανάπτυξης εφαρμογών για τη συγγραφή του κώδικα σε html και javascript. Προτεινόμενο ΙDE: [Brachets](https://brackets.io/) ή εναλλακτικά το [Αtom](https://atom.io/)
 - Θα πρέπει να ρυθμίσεις έναν τοπικό server για να τρέχεις τις Web εφαρμογές σου τοπικά κατά τη διάρκεια της ανάπτυξης πριν τις ανεβάσεις στα Github Pages. Δες τις οδηγίες από [εδώ] (https://aframe.io/aframe-school/#/2/5). Προτεινόμενος Web server: [python 3 http.server](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server).
