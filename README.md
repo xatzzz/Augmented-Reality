@@ -39,6 +39,6 @@
 
 - [A-Frame Library](https://github.com/aframevr/aframe)
 - [Α-Frame School](https://aframe.io/aframe-school/#/)
-- [AR.js](https://github.com/AR-js-org/AR.js)
+- [AR.js Library](https://github.com/AR-js-org/AR.js)
 - [html Tutorial](https://www.w3schools.com/html/default.asp)
 - [Javascript Tutorial](https://www.w3schools.com/js/)
