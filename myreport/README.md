@@ -2,8 +2,8 @@
 
 ### Ονοματεπώνυμο: xxx
 ### Αριθμός Μητρώου: xxx
-### GitHub Profile: xxx
-### Augmented Reality Exercise Repository: xxx
+### GitHub Personal Profile: xxx
+### Augmented Reality Personal Repository: xxx
 
 # ΕΙΣΑΓΩΓΗ
 
