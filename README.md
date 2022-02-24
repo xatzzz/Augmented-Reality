@@ -43,3 +43,4 @@
 - [Blog AR + A-Frame](https://aframe.io/blog/arjs/#customize-your-marker)
 - [html Tutorial](https://www.w3schools.com/html/default.asp)
 - [Javascript Tutorial](https://www.w3schools.com/js/)
+- [Basic writing and formatting syntax in Github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
