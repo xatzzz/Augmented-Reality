@@ -20,9 +20,9 @@ You must first create a [Github](https://github.com/) account, using the univers
 
 ## Grading 
 Taking into account the percentage of the individual assignment in the final grade (5 points). Each deliverable is graded as follows:
-- Tasks described in [deliverable 1](https://github.com/merkourisa/Augmented-Reality/issues/1): up to +1.5 μονάδες. 
-- Tasks described in [deliverable 2](https://github.com/merkourisa/Augmented-Reality/issues/2): up to +2 μονάδες.
-- Tasks described in [deliverable 3](https://github.com/merkourisa/Augmented-Realityr/issues/3): up to +1.5 μονάδες.
+- Tasks described in [deliverable 1](https://github.com/merkourisa/Augmented-Reality/issues/1): up to +1.5 points. 
+- Tasks described in [deliverable 2](https://github.com/merkourisa/Augmented-Reality/issues/2): up to +2 points.
+- Tasks described in [deliverable 3](https://github.com/merkourisa/Augmented-Realityr/issues/3): up to +1.5 points.
 
 
 ## Deadlines
