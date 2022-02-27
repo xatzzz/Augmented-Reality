@@ -1,28 +1,25 @@
-# Μάθημα: Διαδραστική Σχεδίαση - Interaction Design
+# Lesson: Interaction Design
 
-### Ονοματεπώνυμο: xxx
-### Αριθμός Μητρώου: xxx
+### First and Last Name: xxx
+### University Registration Number: dpsdxxxxx
 ### GitHub Personal Profile: xxx
 ### Augmented Reality Personal Repository: xxx
 
-# ΕΙΣΑΓΩΓΗ
+# Introduction
 
-## Οι Προσδοκίες μου από το Μάθημα και την Εργασία
-
-
-# ΣΥΝΟΨΗ
+# Summary
 
 
-# 1ο Παραδοτέο 
+# 1st Deliverable
 
 
-# 2ο Παραδοτέο 
+# 2nd Deliverable
 
 
-# 3ο Παραδοτέο 
+# 3rd Deliverable 
 
 
-# ΕΠΙΛΟΓΟΣ
+# Conclusions
 
 
-# ΠΗΓΕΣ
+# Sources
