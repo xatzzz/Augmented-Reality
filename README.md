@@ -31,7 +31,7 @@ Taking into account the percentage of the individual assignment in the final gra
 - [deliverable 3](https://github.com/merkourisa/Augmented-Reality/issues/3): until 03/06/2022
 
 ## Report
-In each deliverable, you should also modify your personal [report](my_report/README.md), describing what have you done in each deliverable.
+In each deliverable, you should also modify your personal [report](my_report/README.md), describing in detail what have you done in each deliverable.
 
 ## Questions
 
